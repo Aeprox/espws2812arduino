@@ -2,7 +2,7 @@
 
 // Update these with values suitable for your network.
 const char* ssid = "Parnonetv6";
-const char* password = "86kxbv56";
+const char* password = "foolmeonce";
 const char* mqtt_server = "192.168.4.145";
 const int mqqt_port = 1883;
 
